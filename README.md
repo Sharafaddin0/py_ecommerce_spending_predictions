@@ -1,1 +1,3 @@
-# py_ecommerce_spending_predictions
+# Linear Regression Training Project: Ecommerce Clients
+
+# The objective of this project
